@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f6deb0e-ff87-4ed6-bdec-8e6fabdc1311" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="graphql-ca" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.1/libexec" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1eADiUGLBVNfbOWEnYMIyFX1sNT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/graphql/posts/domain" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="go build graphql-ca" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="graphql-ca" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="graphql-ca" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build graphql-ca" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f6deb0e-ff87-4ed6-bdec-8e6fabdc1311" name="Default Changelist" comment="" />
+      <created>1593755630440</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593755630440</updated>
+      <workItem from="1593755631731" duration="1278000" />
+      <workItem from="1593762582828" duration="7878000" />
+      <workItem from="1593825957682" duration="67000" />
+      <workItem from="1593928805020" duration="1559000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="176" key="#Go_Modules_(vgo)" timestamp="1593756351015">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="440" y="176" key="#Go_Modules_(vgo)/0.23.1680.976@0.23.1680.976" timestamp="1593756351015" />
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593762755101">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1593762755101" />
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom" timestamp="1593784814991">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349849" />
+    <state width="1638" height="354" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1593784814991" />
+    <state width="1638" height="354" key="GridCell.Tab.0.center" timestamp="1593784814989">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349842" />
+    <state width="1638" height="354" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1593784814989" />
+    <state width="1638" height="354" key="GridCell.Tab.0.left" timestamp="1593784814988">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349839" />
+    <state width="1638" height="354" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1593784814988" />
+    <state width="1638" height="354" key="GridCell.Tab.0.right" timestamp="1593784814990">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349847" />
+    <state width="1638" height="354" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1593784814990" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom" timestamp="1593784814994">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349728" />
+    <state width="1638" height="354" key="GridCell.Tab.1.bottom/0.23.1680.976@0.23.1680.976" timestamp="1593784814994" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center" timestamp="1593784814992">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349725" />
+    <state width="1638" height="354" key="GridCell.Tab.1.center/0.23.1680.976@0.23.1680.976" timestamp="1593784814992" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left" timestamp="1593784814991">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349724" />
+    <state width="1638" height="354" key="GridCell.Tab.1.left/0.23.1680.976@0.23.1680.976" timestamp="1593784814991" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right" timestamp="1593784814993">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1593778349726" />
+    <state width="1638" height="354" key="GridCell.Tab.1.right/0.23.1680.976@0.23.1680.976" timestamp="1593784814993" />
+    <state x="385" y="268" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593778323674">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="385" y="268" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1680.1050@0.0.1680.1050" timestamp="1593778323674" />
+    <state x="506" y="282" width="667" height="486" key="find.popup" timestamp="1593777993077">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="506" y="282" width="667" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593777993077" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1593776084879">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1593776084879" />
+  </component>
+</project>
