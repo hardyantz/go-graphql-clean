@@ -5,19 +5,19 @@ import (
 	postRepository "graphql-ca/src/graphql/posts/repository"
 )
 
-type PostUseCaseImplementation interface {
+type PostUsecase interface {
 	GetAll(search string) ([]postDomain.Posts, error)
 }
 
-type PostUseCase struct {
-	repo postRepository.PostImplementation
+type postUsecase struct {
+	repo postRepository.Posts
 }
 
-func NewPostUseCase(repo postRepository.PostImplementation) *PostUseCase {
-	return &PostUseCase{repo: repo}
+func NewPostUseCase(repo postRepository.Posts) *postUsecase {
+	return &postUsecase{repo: repo}
 }
 
-func (p *PostUseCase) GetAll(search string) ([]postDomain.Posts, error) {
+func (p *postUsecase) GetAll(search string) ([]postDomain.Posts, error) {
 	res, err := p.repo.FetchAll(search)
 
 	return res, err

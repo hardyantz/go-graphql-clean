@@ -6,15 +6,15 @@ import (
 	postDomain "graphql-ca/src/graphql/posts/domain"
 )
 
-type PostsRepository struct {
+type posts struct {
 	DB *sql.DB
 }
 
-func NewPostsRepository(conf config.Config) *PostsRepository {
-	return &PostsRepository{conf.DB}
+func NewPostsRepository(conf config.Config) *posts {
+	return &posts{conf.DB}
 }
 
-func (p *PostsRepository) FetchAll(search string) ([]postDomain.Posts, error) {
+func (p *posts) FetchAll(search string) ([]postDomain.Posts, error) {
 	var result []postDomain.Posts
 	rows, err := p.DB.Query("SELECT title, description FROM posts where title like '%" + search + "%'")
 	if err != nil {

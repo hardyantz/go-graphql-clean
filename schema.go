@@ -1,20 +1,21 @@
 package main
 
 import (
+	postResolver "graphql-ca/src/graphql/posts/resolver"
 	"graphql-ca/src/graphql/posts/serializer"
 
 	"github.com/graphql-go/graphql"
 )
 
 type Schema struct {
-	resolver Resolver
+	postResolver postResolver.PostResolver
 }
 
 // NewSchema initializes Schema struct which takes resolver as the argument.
 func NewSchema() Schema {
-	resolver := NewResolver()
+	postResolverImpl := postResolver.NewPostResolver()
 	return Schema{
-		resolver: resolver,
+		postResolver: postResolverImpl,
 	}
 }
 
@@ -31,7 +32,7 @@ func (s Schema) Query() *graphql.Object {
 						Type: graphql.String,
 					},
 				},
-				Resolve: s.resolver.GetPosts,
+				Resolve: s.postResolver.GetPosts,
 			},
 		},
 	}
